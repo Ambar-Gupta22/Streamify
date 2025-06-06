@@ -11,7 +11,7 @@ Streamify helps you learn new languages by connecting you with people from aroun
 ![Login Page](https://github.com/user-attachments/assets/81632fab-20b4-4fbd-9221-bf3631b058d8)
 ![Notifications Page](https://github.com/user-attachments/assets/70a7c5f7-f420-4ee6-95e2-1d5287cceebf)
 ![Chat Page](https://github.com/user-attachments/assets/3bb3cf42-880d-4636-ab5f-268b2c442ae5)
-![Onboarding Page](https://github.com/user-attachments/assets/cc1453b9-8e8e-4c3e-87bf-69ede463c5f3)
+![Onboarding Page](https://github.com/user-attachments/assets/eca75827-99be-445e-aea1-770dc5fb6966)
 
 --- 
 
